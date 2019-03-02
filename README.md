@@ -1,7 +1,7 @@
 # Data Science Portfolio
 
 ### **사용 가능 언어**
-R, Python, SPSS
+  * R, Python, SPSS
 
 
 
