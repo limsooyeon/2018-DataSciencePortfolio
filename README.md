@@ -20,6 +20,9 @@
 ### **프로젝트**
 
   * [딥러닝 기반 시간단위 미세먼지 예보](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%8B%9C%EA%B0%84%20%EB%8B%A8%EC%9C%84%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%98%88%EB%B3%B4)
+  
+  
+  * [네이버 영화 리뷰 감성분석](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D)
 
     
   * [MovieLens의 메타데이터를 이용한 추천시스템](https://github.com/limsooyeon/data_science_portfolio/tree/master/MovieLens%EC%9D%98%20%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
