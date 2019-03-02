@@ -25,7 +25,7 @@
   * [MovieLens의 메타데이터를 이용한 추천시스템](https://github.com/limsooyeon/data_science_portfolio/tree/master/MovieLens%EC%9D%98%20%EB%A9%94%ED%83%80%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%B6%94%EC%B2%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C)
   
   
-  * [Bakery transactions 데이터를 이용한 장바구니 분석]
+  * [Bakery transactions 데이터를 이용한 장바구니 분석](https://github.com/limsooyeon/data_science_portfolio/tree/master/bakery%20transactions%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%20%EB%B6%84%EC%84%9D)
 
     
   * [스타벅스 크리스마스 프로모션 분석을 통한 마케팅 전략 제안]
