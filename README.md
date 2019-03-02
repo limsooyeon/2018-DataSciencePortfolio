@@ -21,7 +21,7 @@
 
   * [딥러닝 기반 시간단위 미세먼지 예보](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B0%98%20%EC%8B%9C%EA%B0%84%20%EB%8B%A8%EC%9C%84%20%EB%AF%B8%EC%84%B8%EB%A8%BC%EC%A7%80%20%EC%98%88%EB%B3%B4) 
   
-  * [영화 추천시스템](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D)
+  * [영화 추천시스템 ](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D)
   
   
   * [네이버 영화 리뷰 감성분석](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EB%84%A4%EC%9D%B4%EB%B2%84%20%EC%98%81%ED%99%94%20%EB%A6%AC%EB%B7%B0%20%EA%B0%90%EC%84%B1%EB%B6%84%EC%84%9D)
