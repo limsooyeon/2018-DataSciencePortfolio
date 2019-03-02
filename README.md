@@ -34,7 +34,7 @@
   * [자살률 현황 분석 및 대안 제시](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EC%9E%90%EC%82%B4%EB%A5%A0%20%ED%98%84%ED%99%A9%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EB%8C%80%EC%95%88%20%EC%A0%9C%EC%8B%9C)
 
     
-  * [전국 대학생의 아르바이트 근로 현황 실태 조사 분석]
+  * [전국 대학생의 아르바이트 근로 현황 실태 조사 분석](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EC%A0%84%EA%B5%AD%20%EB%8C%80%ED%95%99%EC%83%9D%EC%9D%98%20%EC%95%84%EB%A5%B4%EB%B0%94%EC%9D%B4%ED%8A%B8%20%EA%B7%BC%EB%A1%9C%20%ED%98%84%ED%99%A9%20%EC%8B%A4%ED%83%9C%20%EC%A1%B0%EC%82%AC%20%EB%B6%84%EC%84%9D)
 
     
     
