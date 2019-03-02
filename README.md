@@ -31,7 +31,7 @@
   * [스타벅스 크리스마스 프로모션 분석을 통한 마케팅 전략 제안](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4%20%ED%81%AC%EB%A6%AC%EC%8A%A4%EB%A7%88%EC%8A%A4%20%ED%94%84%EB%A1%9C%EB%AA%A8%EC%85%98%20%EB%B6%84%EC%84%9D%EC%9D%84%20%ED%86%B5%ED%95%9C%20%EB%A7%88%EC%BC%80%ED%8C%85%20%EC%A0%84%EB%9E%B5%20%EC%A0%9C%EC%95%88)
 
     
-  * [자살률 현황 분석 및 대안 제시]
+  * [자살률 현황 분석 및 대안 제시](https://github.com/limsooyeon/data_science_portfolio/tree/master/%EC%9E%90%EC%82%B4%EB%A5%A0%20%ED%98%84%ED%99%A9%20%EB%B6%84%EC%84%9D%20%EB%B0%8F%20%EB%8C%80%EC%95%88%20%EC%A0%9C%EC%8B%9C)
 
     
   * [전국 대학생의 아르바이트 근로 현황 실태 조사 분석]
